@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class EsempioArrayTest {
 
-	@Test(expected = java.io.IOException.class)
+	@Test
 	public void testGetArray() {
 		String[] expectedArray = { "one", "two", "three" };
 		// fail("Not yet implemented");
