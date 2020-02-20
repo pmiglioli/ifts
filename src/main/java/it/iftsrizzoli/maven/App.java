@@ -15,9 +15,4 @@ public class App {
 		log.debug("Hello World!");
 	}
 	
-	private void loopInfinito() {
-    	while(true) {
-    		
-    	}
-    }
 }
