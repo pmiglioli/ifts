@@ -6,7 +6,7 @@
 
   <groupId>it.iftsrizzoli.maven</groupId>
   <artifactId>esempiomaven</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.2</version>
 
   <name>esempiomaven</name>
   <!-- FIXME change it to the project's website -->
